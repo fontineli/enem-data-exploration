@@ -34,7 +34,7 @@ enem-data-exploration/
 
 ### 1) Clonar o repositório
 ```bash
-git clone https://github.com/gabrielfontineli/enem-data-exploration.git
+git clone https://github.com/fontineli/enem-data-exploration.git
 cd enem-data-exploration
 ```
 
